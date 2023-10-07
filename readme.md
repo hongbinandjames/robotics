@@ -6,7 +6,7 @@ This code repository contains the code the robotics team write.
 
 
 ## Developers 
-james.liu@cobbcounty.edu
+James.Liu@students.cobbk12.org
 
 ## Git Work Flow
 
@@ -26,4 +26,10 @@ git status
 git commit -m"added fast turn around feature"  
 ```
 
-####
+#### More Changes
+```bash
+git status
+git add 
+git commit -m"my second round of change" 
+```
+
