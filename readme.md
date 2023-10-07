@@ -1,5 +1,5 @@
 ## Project Description
-Robotics team at High Tower Trail Middle School in Cobb County of Georgia was founded by in 2022.
+Robotics team at High Tower Trail Middle School in Cobb County of Georgia was founded by Joseph Giunta in 2022.
 This code repository contains the code the robotics team write.
 
 ## Code Repository Structure
